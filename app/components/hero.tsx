@@ -1,7 +1,7 @@
 import foto from "../pian.jpg";
 
 function Profile() {
-  return <img src={foto.src} alt="Sahna Putri Profile" className="fotoku" />;
+  return <img src={foto.src} alt="Novian Profile" className="fotoku" />;
 }
 
 export default function Hero() {
